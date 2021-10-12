@@ -15,4 +15,4 @@
 
 ### 変更履歴
 2021/10/12  
-ubuntu_init2.sh … IPv4のゲートウエイのIPアドレスをGATEWAYIP変数として書き換えられるようにしました。 
+ubuntu_init2.sh … IPv4のネットマスクをNETMASK変数として、ゲートウエイのIPアドレス（IPv4）をGATEWAY_IPV4変数として書き換えられるようにしました。 
