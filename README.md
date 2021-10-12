@@ -14,5 +14,7 @@
 * mosp_install.sh … 勤怠管理導入スクリプト（Web UIによる操作が必要）
 
 ### 変更履歴
-2021/10/12 ubuntu_init2.sh  
-IPv4のネットマスクをNETMASK変数として、ゲートウエイのIPアドレス（IPv4）をGATEWAY_IPV4変数として書き換えられるようにしました。 
+2021/10/12  
+ubuntu_init2.sh    
+* IPv4のネットマスクをNETMASK変数として書き換えられるようにしました。
+* ゲートウエイのIPアドレス（IPv4）をGATEWAY_IPV4変数として書き換えられるようにしました。 
