@@ -12,3 +12,6 @@
 * rainloop_install.sh … Webメール導入スクリプト
 * mattermost_install.sh … チャット導入スクリプト
 * mosp_install.sh … 勤怠管理導入スクリプト（Web UIによる操作が必要）
+
+###変更履歴
+2021/10/12 ubuntu_init2.sh … IPv4のゲートウエイのIPアドレスをGATEWAYIP変数として書き換えられるようにしました。 
